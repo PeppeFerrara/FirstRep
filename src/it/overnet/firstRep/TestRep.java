@@ -8,5 +8,6 @@ public class TestRep {
 		System.out.println("Giuseppe Paradiso");
 		System.out.println("seconda modifica peppe ferrara");
 		System.out.println("Francesco Li Pomi");
+		System.out.println("Bernardo Sullini");
 	}
 }
